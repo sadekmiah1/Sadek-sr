@@ -1,1 +1,298 @@
+#EXTM3U
+#EXTINF:-1 group-title="LiveTV", Bindass
+http://tv.skynet.com.bd/hls/bindass.m3u8
+#EXTINF:-1 group-title="LiveTV", Utvaction
+http://tv.skynet.com.bd/hls/utvaction.m3u8
+#EXTINF:-1 group-title="LiveTV", Zoom
+http://tv.skynet.com.bd/hls/zoom.m3u8
+#EXTINF:-1 group-title="SkynetTV", AndPictures
+http://tv.skynet.com.bd/hls/andpictures.m3u8
+#EXTINF:-1 group-title="SkynetTV", Colore tv HD
+http://tv.skynet.com.bd/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="SkynetTV", ZeeCinema HD
+http://tv.skynet.com.bd/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="SkynetTV", StarPlus
+http://tv.skynet.com.bd/hls/starplus.m3u8
+#EXTINF:-1 group-title="SkynetTV", ColorscinePlex
+http://tv.skynet.com.bd/hls/colorscineplex.m3u8
+#EXTINF:-1 group-title="SkynetTV", Utv
+http://tv.skynet.com.bd/hls/utv.m3u8
+#EXTINF:-1 group-title="SkynetTV", Stargold2 HD
+http://tv.skynet.com.bd/hls/stargold2hd.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sonyen
+http://tv.skynet.com.bd/hls/sonyen.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sony Maxhd
+http://tv.skynet.com.bd/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="SkynetTV", Zeetv
+http://tv.skynet.com.bd/hls/zeetv.m3u8
+#EXTINF:-1 group-title="SkynetTV", Dis Science
+http://tv.skynet.com.bd/hls/dis-science.m3u8
+#EXTINF:-1 group-title="SkynetTV", Stargold
+http://tv.skynet.com.bd/hls/stargold.m3u8
+#EXTINF:-1 group-title="SkynetTV", Mbc
+http://tv.skynet.com.bd/hls/mbc.m3u8
+#EXTINF:-1 group-title="SkynetTV", 9xm
+http://tv.skynet.com.bd/hls/9xm.m3u8
+#EXTINF:-1 group-title="SkynetTV", Masti
+http://tv.skynet.com.bd/hls/masti.m3u8
+#EXTINF:-1 group-title="SkynetTV", Bhojpuri
+http://tv.skynet.com.bd/hls/bhojpuri.m3u8
+#EXTINF:-1 group-title="SkynetTV", Dhin
+http://tv.skynet.com.bd/hls/dhin.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sony Pix HD
+http://tv.skynet.com.bd/hls/sonypixhd.m3u8
+#EXTINF:-1 group-title="SkynetTV", Movies Now
+http://tv.skynet.com.bd/hls/movies-now.m3u8
+#EXTINF:-1 group-title="SkynetTV", Star Movies
+http://tv.skynet.com.bd/hls/starmovies.m3u8
+#EXTINF:-1 group-title="SkynetTV", bbcEarth
+http://tv.skynet.com.bd/hls/bbcearth.m3u8
+#EXTINF:-1 group-title="SkynetTV", Mn+
+http://tv.skynet.com.bd/hls/mn+.m3u8
+#EXTINF:-1 group-title="SkynetTV", Animalplanent
+http://tv.skynet.com.bd/hls/animalplanent.m3u8
+#EXTINF:-1 group-title="SkynetTV", Discovery
+http://tv.skynet.com.bd/hls/discovery.m3u8
+#EXTINF:-1 group-title="SkynetTV", Ngo Hd
+http://tv.skynet.com.bd/hls/ngohd.m3u8
+#EXTINF:-1 group-title="SkynetTV", Tlc
+http://tv.skynet.com.bd/hls/tlc.m3u8
+#EXTINF:-1 group-title="SkynetTV", Wild
+http://tv.skynet.com.bd/hls/wild.m3u8
+#EXTINF:-1 group-title="SkynetTV", StarWorld HD
+http://tv.skynet.com.bd/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="SkynetTV", MNX HD
+http://tv.skynet.com.bd/hls/mnx-hd.m3u8
+#EXTINF:-1 group-title="SkynetTV", bbc world
+http://tv.skynet.com.bd/hls/bbcworld.m3u8
+#EXTINF:-1 group-title="SkynetTV", Aljazeera
+http://tv.skynet.com.bd/hls/aljazeera.m3u8
+#EXTINF:-1 group-title="SkynetTV", lotus
+http://tv.skynet.com.bd/hls/lotus.m3u8
+#EXTINF:-1 group-title="SkynetTV", 1
+http://tv.skynet.com.bd/hls/1.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sony six
+http://tv.skynet.com.bd/hls/sonysix.m3u8
+#EXTINF:-1 group-title="SkynetTV", Star Sports3
+http://tv.skynet.com.bd/hls/starsports3.m3u8
+#EXTINF:-1 group-title="SkynetTV", Star Sport Select1 HD
+http://tv.skynet.com.bd/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="SkynetTV", Ster Sports1 HD
+http://tv.skynet.com.bd/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="SkynetTV", Starsports2
+http://tv.skynet.com.bd/hls/starsports2.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sonyten3
+http://tv.skynet.com.bd/hls/sonyten3.m3u8
+#EXTINF:-1 group-title="SkynetTV", Select2
+http://tv.skynet.com.bd/hls/select2.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sonyten2
+http://tv.skynet.com.bd/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sonyten1
+http://tv.skynet.com.bd/hls/sonyten1.m3u8
+#EXTINF:-1 group-title="SkynetTV", Bein3
+http://tv.skynet.com.bd/hls/bein3.m3u8
+#EXTINF:-1 group-title="SkynetTV", Ptv
+http://tv.skynet.com.bd/hls/ptv.m3u8
+#EXTINF:-1 group-title="SkynetTV", 18
+http://tv.skynet.com.bd/hls/18.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sun Bangla
+http://tv.skynet.com.bd/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="SkynetTV", Indepen
+http://tv.skynet.com.bd/hls/indepen.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sony Aath
+http://tv.skynet.com.bd/hls/Sony_Aath.m3u8
+#EXTINF:-1 group-title="SkynetTV", Gazi TV
+http://tv.skynet.com.bd/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="SkynetTV", Travelxp
+http://tv.skynet.com.bd/hls/travelxp.m3u8
+#EXTINF:-1 group-title="SkynetTV", 71
+http://tv.skynet.com.bd/hls/71.m3u8
+#EXTINF:-1 group-title="SkynetTV", Channeli
+http://tv.skynet.com.bd/hls/channeli.m3u8
+#EXTINF:-1 group-title="SkynetTV", Masranga
+http://tv.skynet.com.bd/hls/masranga.m3u8
+#EXTINF:-1 group-title="SkynetTV", Somoy
+http://tv.skynet.com.bd/hls/somoy.m3u8
+#EXTINF:-1 group-title="SkynetTV", Zee Bangla Cinema
+http://tv.skynet.com.bd/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 group-title="SkynetTV", Colore Bangla Cinema
+http://tv.skynet.com.bd/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 group-title="SkynetTV", JalshaMovies
+http://tv.skynet.com.bd/hls/jalshamovies.m3u8
+#EXTINF:-1 group-title="SkynetTV", Colors Bangla
+http://tv.skynet.com.bd/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="SkynetTV", ZeeBangla HD
+http://tv.skynet.com.bd/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="SkynetTV", StarJalsha
+http://tv.skynet.com.bd/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sangeetbangla
+http://tv.skynet.com.bd/hls/sangeetbangla.m3u8
+#EXTINF:-1 group-title="SkynetTV", Akash
+http://tv.skynet.com.bd/hls/akash.m3u8
+#EXTINF:-1 group-title="SkynetTV", Enterr10
+http://tv.skynet.com.bd/hls/enterr10.m3u8
+#EXTINF:-1 group-title="SkynetTV", Starbangla
+http://tv.skynet.com.bd/hls/starbangla.m3u8
+#EXTINF:-1 group-title="SkynetTV", Jamuna
+http://tv.skynet.com.bd/hls/jamuna.m3u8
+#EXTINF:-1 group-title="SkynetTV", Gb
+http://tv.skynet.com.bd/hls/gb.m3u8
+#EXTINF:-1 group-title="SkynetTV", D
+http://tv.skynet.com.bd/hls/d.m3u8
+#EXTINF:-1 group-title="SkynetTV", Nagoriktv
+http://tv.skynet.com.bd/hls/nagoriktv.m3u8
+#EXTINF:-1 group-title="SkynetTV", Atn
+http://tv.skynet.com.bd/hls/atn.m3u8
+#EXTINF:-1 group-title="SkynetTV", Atn News
+http://tv.skynet.com.bd/hls/atn-news.m3u8
+#EXTINF:-1 group-title="SkynetTV", Sonyway
+http://tv.skynet.com.bd/hls/sonyway.m3u8
+#EXTINF:-1 group-title="SkynetTV", nick
+http://tv.skynet.com.bd/hls/nick.m3u8
+#EXTINF:-1 group-title="SkynetTV", CN
+http://tv.skynet.com.bd/hls/cn.m3u8
+#EXTINF:-1 group-title="SkynetTV", Pogo
+http://tv.skynet.com.bd/hls/pogo.m3u8
+#EXTINF:-1 group-title="SkynetTV", Madani
+http://tv.skynet.com.bd/hls/madani.m3u8
+#EXTINF:-1 group-title="SkynetTV", Qurqntv
+http://tv.skynet.com.bd/hls/qurqntv.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="IPTV-1", Skynet
+http://tv.skynet.com.bd/hls/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
+http://103.143.243.74/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/qBbn5yRZ/T-Sports.png" group-title="IPTV-1", T Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten 1
+http://103.143.243.74/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-1", Sony Sports Ten 2
+http://103.143.243.74/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="IPTV-1", Sony Sports Ten 3
+http://103.143.243.74/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="IPTV-1", Sony Sports Ten 5
+http://103.143.243.74/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="IPTV-1", Sports 18
+http://103.143.243.74/hls/18.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="IPTV-1", Star Sports 1
+http://103.143.243.74/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="IPTV-1", Star Sports 2 
+http://103.143.243.74/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="IPTV-1", Star Sports 3
+http://103.143.243.74/hls/starsports3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="IPTV-1", Star Sports Select 1
+http://103.143.243.74/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="IPTV-1", Star Sports Select 2
+http://103.143.243.74/hls/select2.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="IPTV-1", PTV Sports
+http://103.143.243.74/hls/ptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-1", Somoy TV
+http://103.143.243.74/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="IPTV-1", Independent
+http://103.143.243.74/hls/indepen.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
+http://103.143.243.74/hls/channeli.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="IPTV-1", ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xz5xtjt/Maasranga-TV.png" group-title="IPTV-1", Masranga
+http://103.143.243.74/hls/masranga.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="IPTV-1", Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="IPTV-1", Bangla Vision
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="IPTV-1", Sony Aath
+http://103.143.243.74/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="IPTV-1", Zee Bangla HD
+http://103.143.243.74/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="IPTV-1", Colors Bangla HD
+http://103.143.243.74/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-1", Star Jalsha 
+http://103.143.243.74/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="IPTV-1", Zee Bangla Cinema
+http://103.143.243.74/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="IPTV-1", Jalsha Movies HD
+http://103.143.243.74/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="IPTV-1", Colores Bangla Cinema
+http://103.143.243.74/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ36Nv5w/Sun-Bangla.png" group-title="IPTV-1", Sun Bangla
+http://103.143.243.74/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xR3b0k9/Star-Bangla.png" group-title="IPTV-1", Star Bangla
+http://103.143.243.74/hls/starbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="IPTV-1", Enterr10
+http://103.143.243.74/hls/enterr10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="IPTV-1", Sony Pix HD
+http://103.143.243.74/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="IPTV-1", Star Movies
+http://103.143.243.74/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="IPTV-1", MNX HD
+http://103.143.243.74/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="IPTV-1", MN+ HD
+http://103.143.243.74/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90FkFZ5n/Romedy-Now.png" group-title="IPTV-1", Romedy Now
+http://103.143.243.74/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT3pWXty/Movies-Now-HD.png" group-title="IPTV-1", Movies Now HD
+http://103.143.243.74/hls/movies-now.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-1", Sony HD
+http://103.143.243.74/hls/sonyen.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-1", Sony Max HD
+http://103.143.243.74/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="IPTV-1", Zee TV
+http://103.143.243.74/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="IPTV-1", Zee Cinema
+http://103.143.243.74/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="IPTV-1", Star Plus HD
+http://103.143.243.74/hls/starplus.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="IPTV-1", Colors HD
+http://103.143.243.74/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnMwbQLW/Colors-Cineplex-HD.png" group-title="IPTV-1", Colors Cineplex HD
+http://103.143.243.74/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SBbn4Vx/Picture.png" group-title="IPTV-1", &Pictures HD
+http://103.143.243.74/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="IPTV-1", Star Gold
+http://103.143.243.74/hls/stargold.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="IPTV-1", Sony YaY!
+http://103.143.243.74/hls/sonyway.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="IPTV-1", Nick
+http://103.143.243.74/hls/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="IPTV-1", Animal Planet HD
+http://103.143.243.74/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="IPTV-1", Discovery HD
+http://103.143.243.74/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="IPTV-1", Nat Geo HD
+http://103.143.243.74/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="IPTV-1", Nat Geo Wild
+http://103.143.243.74/hls/wild.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSJ896x/Travel-XP.png" group-title="IPTV-1", Travel XP
+http://103.143.243.74/hls/travelxp.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxk9rSs/BBC-World.png" group-title="IPTV-1", BBC World
+http://103.143.243.74/hls/bbcworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="IPTV-1", 9xm
+http://103.143.243.74/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgV53kT/S-Bangla.png" group-title="IPTV-1", Sangeet Bangla
+http://103.143.243.74/hls/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyYZr36S/Quran-TV.png" group-title="IPTV-1", Quran TV
+http://103.143.243.74/hls/qurqntv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK1mYbjx/Madani-Chennel.png" group-title="IPTV-1", Madani Chennel
+http://103.143.243.74/hls/madani.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YjKNJQDd/Fox-Action-Movies.png" group-title="IPTV-1", Fox Action Movies
+http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NQtGdTS/Star-Movies-Select-HD.png" group-title="IPTV-1", Star Movies Select HD
+http://otv.ftpbd.net:8082/History-18-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvcBhjVD/HBO.png" group-title="IPTV-1", HBO
+http://otv.ftpbd.net:8082/Hbo-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bQk2sg/Sony-Sab.png" group-title="IPTV-1", Sony Sab
+http://otv.ftpbd.net:8082/Sony-Sab-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLgB70BW/Nick-JR.png" group-title="IPTV-1", Nick JR
+http://otv.ftpbd.net:8082/Nick-Jr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k50xVQqq/Duronto.png" group-title="IPTV-1", Duronto
+http://otv.ftpbd.net:8082/Duronto-Tv-HD/tracks-v1a1/mono.m3u8
