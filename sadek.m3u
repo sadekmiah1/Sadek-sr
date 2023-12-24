@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="LiveTV", Bindass
-http://tv.skynet.com.bd/hls/bindass.m3u8
-#EXTINF:-1 group-title="LiveTV", Utvaction
-http://tv.skynet.com.bd/hls/utvaction.m3u8
+#EXTINF:-1 group-title="IPTV1", Somoy TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/somoy_tv_576/somoy_tv_576.m3u8
+#EXTINF:-1 group-title="IPTV1", Zee Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8
 #EXTINF:-1 group-title="LiveTV", Zoom
 http://tv.skynet.com.bd/hls/zoom.m3u8
 #EXTINF:-1 group-title="SkynetTV", AndPictures
